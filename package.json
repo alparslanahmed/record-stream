@@ -1,0 +1,25 @@
+{
+  "name": "record-stream",
+  "version": "1.0.0",
+  "description": "Record Stream is a ffmpeg based package for recording and saving live stream videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alparslanahmed/record-stream.git"
+  },
+  "keywords": [
+    "record",
+    "live",
+    "stream",
+    "ffmpeg"
+  ],
+  "author": "alparslanahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alparslanahmed/record-stream/issues"
+  },
+  "homepage": "https://github.com/alparslanahmed/record-stream#readme"
+}
